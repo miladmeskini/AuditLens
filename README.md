@@ -22,5 +22,5 @@
 
 # About
 
-# Developed by Milad Meskini to bridge the gap between complex forensic accounting requirements and modern data automation tools.
+# Developed by Milad Meskini and Maryam Zeinali to bridge the gap between complex forensic accounting requirements and modern data automation tools.
 
